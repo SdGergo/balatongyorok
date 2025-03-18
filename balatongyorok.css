@@ -1,0 +1,62 @@
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+#header{
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url(panorama.jpg);
+    background-position: 30%;
+    background-size: 150%;
+    height: 200px   ;
+}
+
+#cimer{
+    position: relative;
+    top: -50px;
+    left: 800px;
+    max-height: 170px;
+}
+
+#container{
+    width: 1000px;
+    position: absolute;
+    left: 25%;
+}
+
+.kilato{
+    width: 450px;
+    background-color: #5B9CEA;
+    padding: 20px;
+    align-items: center;
+}
+
+
+#belmatyas{
+    position: absolute;
+    left: 510px;
+    top: 272px;
+}
+
+table{
+    background-color: #B0D1F1;
+    
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    
+}
+
+th, td{
+    max-height: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
